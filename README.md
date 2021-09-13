@@ -1,6 +1,6 @@
-## Hello There 
+## <img width=300 align=center src="https://media3.giphy.com/media/djRJNZqj508sE/giphy.gif" width="max"/> Greetings User!!!
+
 <div>
-<img align=center src="https://media3.giphy.com/media/djRJNZqj508sE/giphy.gif" width="max"/>
 
 - 🔭 I’m currently studying at <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
   
