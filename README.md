@@ -34,6 +34,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VissaMoutafis&theme=darcula&layout=compact" />
 </div>
 
+
+<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vissarion-moutafis-843947192/)
+  [![Visits](https://komarev.com/ghpvc/?username=VissaMoutafis&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/VissaMoutafis)
+</p>
 <!--
 **VissaMoutafis/VissaMoutafis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
