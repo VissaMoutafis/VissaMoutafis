@@ -1,4 +1,16 @@
-## 🔧 Technologies & Tools
+## Hello There 
+<div>
+<img align=center src="https://media3.giphy.com/media/djRJNZqj508sE/giphy.gif" width="max"/>
+
+- 🔭 I’m currently studying at <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
+  
+- 🌱 I’m currently learning <a href="http://introtodeeplearning.com/">DeepLearning</a>
+  
+- 👯 I’m looking to get some hands-on experience
+</div>
+
+
+### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -17,7 +29,7 @@
 
 
 ### &#x1f4c8; Github Stats
-<div>
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VissaMoutafis&show_icons=true&hide=issues&count_private=true&theme=darcula" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VissaMoutafis&theme=darcula&layout=compact" />
 </div>
