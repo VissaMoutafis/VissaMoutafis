@@ -19,10 +19,12 @@
 - ⚡ Interested in Machine Learning, Data Mining, Cybersecurity, Automation.
   
 - ℹ Other Interests: 
+  - ❔ Problem Solving
   - 📖 Books 
   - 🎵 Music (Listening and Playing)  
   - ♟️ Chess 
   - 🏀 Sports 
+  - 🍻 Having fun with friends
 </div>
 
 
