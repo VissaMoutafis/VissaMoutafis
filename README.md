@@ -1,5 +1,3 @@
-## <img align=center src="https://media3.giphy.com/media/djRJNZqj508sE/giphy.gif" />   
-
 ## About
 <p align="center">
   
