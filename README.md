@@ -25,7 +25,7 @@
 
 - 🎓 I’m currently pursuing a Bachelor's Degree in Computer Science at <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>, undergoing my **4-th** undergraduate year of studies
   
-- 📚 I’m currently learning <a href="http://introtodeeplearning.com/">DeepLearning</a>
+- 📚 I’m currently learning <a href="https://angular.io/">Angular Programming</a>
   
 - 👯 I’m looking to get some hands-on experience
   
