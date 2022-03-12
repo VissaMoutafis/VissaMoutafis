@@ -8,7 +8,7 @@
 
 ### &#x1f4c8; Github Stats
 <div align="center">
-  <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VissaMoutafis&theme=darcula&layout=compact&count_private=true") />
+
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VissaMoutafis&theme=darcula&layout=compact&count_private=true" />
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=VissaMoutafis&show_icons=true&hide=issues&count_private=true&theme=darcula" />
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=VissaMoutafis&theme=onedark&no-frame=true&no-bg=true"/>
@@ -37,7 +37,6 @@
   - 🎵 Music (Listening and Playing)  
   - ♟️ Chess 
   - 🏀 Sports 
-  - 🍻 Having fun with friends
 </div>
 
 
