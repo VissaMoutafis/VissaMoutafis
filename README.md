@@ -23,35 +23,18 @@
 
 <div>
 
-- 🎓 I’m currently pursuing a Bachelor's Degree in Computer Science at <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>, undergoing my **4-th** undergraduate year of studies
+- 🎓 I’m at my final year (4th) of a Bachelor's Degree in Computer Science at <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
   
 - 📚 I’m currently learning <a href="https://angular.io/">Angular Programming</a>
   
-- 👯 I’m looking to get some hands-on experience
+- 🖥️ I am occupied as a Data Science intern in [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
   
-- ⚡ Interested in Machine Learning, Data Mining, Cybersecurity, Automation.
+- ❗ Interested in Machine Learning, Cybersecurity, Dev Ops.
   
 - ℹ Other Interests: 
   - ❔ Problem Solving
   - 📖 Books 
   - 🎵 Music (Listening and Playing)  
   - ♟️ Chess 
-  - 🏀 Sports 
+  - 🎾 Sports 
 </div>
-
-
-
-<!--
-**VissaMoutafis/VissaMoutafis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
