@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21cb2qmmvbmfkomjmhkuh7uxy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile/blob/master/img/novatorem.svg)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21cb2qmmvbmfkomjmhkuh7uxy&cover_image=true&theme=novatorem)]()
 
 </div>
 
