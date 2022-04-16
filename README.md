@@ -6,12 +6,6 @@
 </div>
 
 <div align="center">
-
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VissaMoutafis&theme=darcula&layout=compact&count_private=true" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=VissaMoutafis&show_icons=true&hide=issues&count_private=true&theme=darcula" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
@@ -31,6 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25px" height="25px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="25px" height="25px"/>
@@ -39,12 +34,21 @@
 </div>
 
 <div align="center">
+
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VissaMoutafis&theme=darcula&layout=compact&count_private=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=VissaMoutafis&show_icons=true&hide=issues&count_private=true&theme=darcula" />
+</div>
+
+
+
+<div align="center">
   
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vissarion-moutafis-843947192/)  [![Twitter](https://img.shields.io/badge/twitter-369?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/VissarionMouta1)   [![Visits](https://komarev.com/ghpvc/?username=VissaMoutafis&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/VissaMoutafis)
 
 </div>
 
-<!-- <div>
+## About
+<div>
 
 - 🎓 I’m at my final year (4th) of a Bachelor's Degree in Computer Science at <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
   
@@ -60,4 +64,6 @@
   - 🎵 Music (Listening and Playing)  
   - ♟️ Chess 
   - 🎾 Sports 
-</div> -->
+</div>
+
+
