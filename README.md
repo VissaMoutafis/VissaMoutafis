@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21cb2qmmvbmfkomjmhkuh7uxy&cover_image=true&theme=novatorem)]()
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21cb2qmmvbmfkomjmhkuh7uxy&cover_image=true&theme=novatorem)](/novatorem.svg)
 
 </div>
 
@@ -54,14 +54,13 @@
   
 - 📚 I’m currently learning <a href="https://angular.io/">Angular Programming</a>
   
-- 🖥️ I am occupied as a Data Science intern in [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
+- 🖥️ I am occupied as a Data Science New Intern in [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
   
 - ❗ Interested in Machine Learning, Cybersecurity, Dev Ops.
   
 - ℹ Other Interests: 
-  - ❔ Problem Solving
   - 📖 Books 
-  - 🎵 Music (Listening and Playing)  
+  - 🎵 Music  
   - ♟️ Chess 
   - 🎾 Sports 
 </div>
