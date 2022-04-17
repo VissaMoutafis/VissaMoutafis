@@ -51,13 +51,18 @@
 </div>
 <div>
 
-- 🎓 I’m at my final year (4th) of a Bachelor's Degree in Computer Science at <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
+- 🎓 Final year of a Bachelor's Degree in Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
   
-- 📚 I’m currently learning <a href="https://angular.io/">Angular Programming</a>
+- 📚 Currently learning <a href="https://angular.io/">Angular Programming</a>
   
-- 🖥️ I am occupied as a Data Science New Intern in [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
+- 🖥️ Data Science New Intern @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
   
-- ❗ Interested in Machine Learning, Cybersecurity, Dev Ops.
+- ❗ Interested in:
+  - Data Science
+  - Machine Learning
+  - Cybersecurity
+  - Dev Ops
+  - Automation
   
 - ℹ Other Interests: 
   - 📖 Books 
