@@ -52,10 +52,11 @@
 <div>
 
 - 🎓 Final year of a Bachelor's Degree in Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
-  
+
+- 🖥️ Data Science New Intern @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
+
 - 📚 Currently learning <a href="https://angular.io/">Angular Programming</a>
   
-- 🖥️ Data Science New Intern @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
   
 - ❗ Interested in:
   - Data Science
