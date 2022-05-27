@@ -64,6 +64,7 @@
   - Cybersecurity
   - Dev Ops
   - Automation
+  - IoT
   
 - ℹ Other Interests: 
   - 📖 Books 
