@@ -55,7 +55,7 @@
 
 - 🖥️ Data Science New Intern @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
 
-- 📚 Currently learning <a href="https://angular.io/">Angular Programming</a>
+- 📚 Currently learning <a href="https://angular.io/">Angular Programming</a> and <a href="https://docs.gitlab.com/ee/ci/">Gitlab CI/CD</a>
   
   
 - ❗ Interested in:
