@@ -11,10 +11,8 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="25px" height="25px"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="25px" height="25px"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25px" height="25px"/>
@@ -34,7 +32,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25px" height="25px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="25px" height="25px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="25px" height="25px"/>
 
 
 </div>
@@ -55,16 +52,17 @@
 
 - 🖥️ Data Science New Intern @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
 
-- 📚 Currently learning <a href="https://angular.io/">Angular Programming</a> and <a href="https://docs.gitlab.com/ee/ci/">Gitlab CI/CD</a>
+- 📚 Currently learning <a href="https://angular.io/">Angular Programming</a>, Docker, Kubernetes, Gitlab CI/CD framework and FastAPI
   
   
 - ❗ Interested in:
-  - Data Science
+  - System Security
+  - Systems Architecture
+  - Micro-Services
+  - Data Science 
   - Machine Learning
-  - Cybersecurity
-  - Dev Ops
-  - Automation
-  - IoT
+  - Infrastructure
+  - Task Automation
   
 - ℹ Other Interests: 
   - 📖 Books 
