@@ -43,7 +43,7 @@
 
 <div align="left">
   
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vissarion-moutafis-843947192/)  [![Twitter](https://img.shields.io/badge/twitter-369?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/VissarionMouta1)   [![Visits](https://komarev.com/ghpvc/?username=VissaMoutafis&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/VissaMoutafis)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vissarion-moutafis-843947192/) [![Visits](https://komarev.com/ghpvc/?username=VissaMoutafis&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/VissaMoutafis)
 
 </div>
 <div>
