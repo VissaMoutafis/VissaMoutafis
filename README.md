@@ -50,7 +50,7 @@
 
 - 🎓 BSc Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
 
-- 🖥️ Data Science New Intern @ [Accenture Greece](https://www.accenture.com/gr-en/about/company/greece), since March-2022.
+- 🖥️ IT Security Intern @ [Census Labs][(https://www.accenture.com/gr-en/about/company/greece](https://census-labs.com/)), since December-2022.
 
 - 📚 Currently learning Computer Networking and Web App Security
   
