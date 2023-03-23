@@ -52,15 +52,16 @@
 
 - 🖥️ IT Security Intern @ [Census Labs](https://census-labs.com/), since December-2022.
 
-- 📚 Currently learning Computer Networking and Web App Security
+- 📚 Currently learning Pentesting and Cryptography
   
 - ❗ Interested in:
   - System Security
+  - Cryptography
+  - Web/Mobile App Security
+  - CTFs !!
   - Systems Architecture
   - Micro-Services
-  - Data Science 
-  - Machine Learning
-  - Infrastructure
+  - Data Science & ML
   - Task Automation
   
 - ℹ Other Interests: 
