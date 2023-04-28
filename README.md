@@ -50,7 +50,7 @@
 
 - 🎓 BSc Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
 
-- 🖥️ IT Security Intern @ [Census Labs](https://census-labs.com/), since December-2022.
+- 🖥️ Security Engineer @ [Census Labs](https://census-labs.com/), since December-2022.
 
 - 📚 Currently learning Pentesting and Cryptography
   
