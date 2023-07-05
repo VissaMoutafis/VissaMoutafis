@@ -49,11 +49,11 @@
 </div>
 <div>
 
-- 🎓 BSc Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
+- 🎓 BSc Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a> ✔️
 
 - 🖥️ Security Engineer @ [Census Labs](https://census-labs.com/), since December-2022.
 
-- 📚 Currently learning Pentesting and Cryptography
+- 📚 Currently learning Active Directory Pentesting and Mobile AppSec
   
 - ❗ Interested in:
   - System Security
