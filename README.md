@@ -51,9 +51,9 @@
 
 - 🎓 BSc Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a> ✔️
 
-- 🖥️ Security Engineer @ [Census Labs](https://census-labs.com/), since December-2022.
+- 🖥️ MSc in Computer Science and Cyber Security @ TU Delft.
 
-- 📚 Currently learning Active Directory Pentesting and Mobile AppSec
+- 📚 Currently learning Cryptography and solving ctfs
   
 - ❗ Interested in:
   - System Security
