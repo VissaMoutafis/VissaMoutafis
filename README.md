@@ -49,16 +49,13 @@
 </div>
 <div>
 
-- 🎓 BSc Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a> ✔️
-
-- 🖥️ MSc in Computer Science and Cyber Security @ TU Delft.
-
-- 📚 Currently learning Cryptography and solving ctfs
-  
+- 🖥️ Research Associate in TU Delft on Systems Security.
+- 📡 Trainee at ESA for Space OS security. 
+- 🖥️ MSc Candidate in Computer Science and Cyber Security @ TU Delft.
+- 🎓 BSc Holder on Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a> ✔️
 - ❗ Interested in:
   - System Security
-  - Cryptography
-  - Web/Mobile App Security
+  - IoT and Embedded Development
   - CTFs !!
   - Systems Architecture
   - Micro-Services
